@@ -1,0 +1,9 @@
+[submodule "advanced-java"]
+	path = advanced-java
+	url = https://github.com/thawkins2/advanced-java.git
+[submodule "ruby-on-rails-project"]
+	path = ruby-on-rails-project
+	url = https://github.com/thawkins2/ruby-on-rails-project.git
+[submodule "php-projects"]
+	path = php-projects
+	url = https://github.com/thawkins2/php-projects.git
